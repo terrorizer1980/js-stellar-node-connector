@@ -708,10 +708,10 @@
   resolved "https://registry.yarnpkg.com/@types/prettier/-/prettier-2.0.1.tgz#b6e98083f13faa1e5231bfa3bdb1b0feff536b6d"
   integrity sha512-boy4xPNEtiw6N3abRhBi/e7hNvy3Tt8E9ZRAQrwAGzoCGZS/1wjo9KY7JHhnfnEsG5wSjDbymCozUM9a3ea7OQ==
 
-"@types/sodium-native@^2.3.2":
-  version "2.3.2"
-  resolved "https://registry.yarnpkg.com/@types/sodium-native/-/sodium-native-2.3.2.tgz#2dbe9bdf4a4513573b46f66b6a6a85ddfb6e7bef"
-  integrity sha512-kJsBN9OCzCwa4FptFKyxT72CpHzDjHYWwHbw+5742OdpCG3efTl8LE9iLxSzhGpFZqvuoHSxIMukv+1v+ZzsHA==
+"@types/sodium-native@^2.3.5":
+  version "2.3.5"
+  resolved "https://registry.yarnpkg.com/@types/sodium-native/-/sodium-native-2.3.5.tgz#5d2681e7b6b67bcbdc63cfb133e303ec9e942e43"
+  integrity sha512-a3DAIpW8+36XAY8aIR36JBQQsfOabxHuJwx11DL/PTvnbwEWPAXW66b8QbMi0r2vUnkOfREsketxdvjBmQxqDQ==
   dependencies:
     "@types/node" "*"
 
