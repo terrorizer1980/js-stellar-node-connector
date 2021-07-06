@@ -21,7 +21,7 @@
     "dotenv": "^6.1.0",
     "net": "^1.0.2",
     "sodium-native": "^2.4.9",
-    "stellar-base": "3.0.3",
+    "stellar-base": "3.0.4",
     "winston": "^3.1.0"
   },
   "peerDependencies": {
